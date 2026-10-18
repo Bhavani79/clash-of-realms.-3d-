@@ -1,0 +1,8 @@
+{
+  "name": "clash-of-realms",
+  "version": "1.0.0",
+  "description": "Clash of Realms - 1 vs 1 online fighting game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
